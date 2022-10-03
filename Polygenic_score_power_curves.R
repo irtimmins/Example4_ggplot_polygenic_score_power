@@ -5,7 +5,7 @@ library(cowplot)
 
 ######################################################################
 # Extract data from previous simulations,
-# stored in files figure1_results_bn_F{I}_dif{J}.txt"
+# stored in files "figure1_results_bn_F{I}_dif{J}.txt"
 ######################################################################
 
 
